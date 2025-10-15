@@ -12,7 +12,7 @@
 ---
 
 ### About Me  
-- Passionate about building **maintainable and testable software** and experimenting with **AI/ML**, published [papers](https://scholar.google.com/citations?user=SwIyxCUAAAAJ&hl=en).
+- Passionate about building **maintainable and testable software** and experimenting with **AI/ML**, published [research papers](https://scholar.google.com/citations?user=SwIyxCUAAAAJ&hl=en).
 - Earned **two Masters Degrees**, Computer Science + Web & Application Development.
 - Advocate of _clean architecture_, _separation of concerns_, and _refactorable code_, created mobile [architecture notes](https://github.com/jemshit/Android_Architecture_Notes).
 - Strong background in **Asynchronous Programming** _(Kotlin coroutines, Python asyncio, Javascript async/await)_
